@@ -57,7 +57,7 @@ class OrderController
 ## Step 2: Creating a Simple Container with Reflection
 The container will resolve dependencies automatically using reflection:
 
-```
+```php
 <?php
 
 class Container
